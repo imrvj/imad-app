@@ -1,7 +1,8 @@
 console.log('Loaded!');
-prompt("welcome yaar ");
+//prompt("welcome yaar ");
+
 var img = document.getElementById('rv');
 rv.onclick =function()
 {
-    prompt("ok");
+    prompt("ok gotcha");
 }
