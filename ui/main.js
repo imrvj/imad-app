@@ -1,8 +1,7 @@
-console.log('Loaded!');
-//prompt("welcome yaar ");
 
-var img = document.getElementById('rv');
-rv.onclick =function()
+
+var button =document.getElementById("counter")
+button.onclick =function()
 {
-    prompt("ok gotcha");
+    span=span+1;
 }
