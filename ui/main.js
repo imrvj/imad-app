@@ -18,5 +18,5 @@ var name=nameInput.value;
 var submit=document.getElementById("submit_button");
 submit_button.onclick =function()
 {
-    document.write(name);
+    document.innerHTML =name.toString();
 }
